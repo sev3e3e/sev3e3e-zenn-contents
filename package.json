@@ -1,0 +1,11 @@
+{
+  "name": "sev3e3e-zenn-contents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sev3e3e/sev3e3e-zenn-contents.git",
+  "author": "medilore <fc2tokaqq+medilore@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.134"
+  }
+}
